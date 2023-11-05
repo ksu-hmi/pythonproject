@@ -52,6 +52,9 @@ Vitor Freitas has a wonderfull Django blog which helped a lot:
 * [how to use python decouple to seperation config data](https://simpleisbetterthancomplex.com/2015/11/26/package-of-the-week-python-decouple.html)
 
 * [how to extend django's user model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html#onetoone) (I spotted this article late and with better planning, I could have integrated some of the concepts better)
+
+
+
 * Data Analytics with Jupyter and Pandas
   > COMING SOON
   
