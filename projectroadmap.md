@@ -1,5 +1,5 @@
 - [x] Approved project topic
 - [x] join team "ksu-is" (https://github.com/ksu-is)
-- [ ] write readme.md
+- [X] write readme.md, edited related repository
 - [x] project roadmap documents
-- [ ] find related repository and evaluate it
+- [X] find related repository and evaluate it
