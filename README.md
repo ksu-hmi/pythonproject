@@ -1,4 +1,4 @@
-# Recipease
+# Smart Choice Recipes
 
 ## Intro
 
