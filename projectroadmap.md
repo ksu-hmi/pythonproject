@@ -7,4 +7,6 @@ Sprint 1
 - [X] write readme.md, edited related repository
 
       Sprint 2
-      - [x] 
+      - [x] make small updates and add commit messages in GitHub shared organization
+      - [] each commit including a comment explanation
+      - [] tracking progress on planned and emerging tasks in projectroadmap.md document
