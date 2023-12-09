@@ -10,3 +10,10 @@ Sprint 1
  - [x] make small updates and add commit messages in GitHub shared organization
  - [x] each commit including a comment explanation
  - [x] tracking progress on planned and emerging tasks in projectroadmap.md document
+
+       Sprint 3
+- [x] made cover presentation
+
+      Final Presentation
+- [x] made final changes to code
+- [x] present on teams
